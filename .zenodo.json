@@ -1,0 +1,34 @@
+{
+  "creators": [
+    {
+      "name": "Latipov, Aziz",
+      "orcid": "0009-0003-8938-8223"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "upload_type": "dataset",
+  "title": "tech-note-9: companion runs and code for \"Decomposition Buys Budget at Best, Nothing Usually\"",
+  "description": "Pre-registration (with its two recorded protocol revisions), runner, item selection, the 560 decomposition runs (plan, subtask results, assembled answer, correctness, per-call token counts and cost; GPQA Diamond records carry no text and per-item random tokens in place of answers, per the dataset's terms), the statistics script and the results of the technical note \"Decomposition Buys Budget at Best, Nothing Usually\" (https://alatip.github.io/decomposition-buys-budget/, DOI 10.5281/zenodo.23273230).",
+  "keywords": [
+    "task decomposition",
+    "multi-agent systems",
+    "test-time compute",
+    "language model ensembles",
+    "pre-registration",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://alatip.github.io/decomposition-buys-budget/",
+      "relation": "isSupplementTo",
+      "scheme": "url",
+      "resource_type": "publication-preprint"
+    },
+    {
+      "identifier": "10.5281/zenodo.23273230",
+      "relation": "isSupplementTo",
+      "scheme": "doi",
+      "resource_type": "publication-preprint"
+    }
+  ]
+}
