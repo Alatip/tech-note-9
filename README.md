@@ -1,6 +1,6 @@
 # tech-note-9 — Decomposition Buys Budget at Best, Nothing Usually
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23273230.svg)](https://doi.org/10.5281/zenodo.23273230) — the note.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23273230.svg)](https://doi.org/10.5281/zenodo.23273230) — the note. Runs and code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23274139.svg)](https://doi.org/10.5281/zenodo.23274139) — archived release v1.0.
 
 Companion runs and code for the technical note **"Decomposition Buys Budget at Best, Nothing Usually"**
 (alatip.github.io/decomposition-buys-budget/): a task cut into 2–4 subtasks and solved one at a time,
